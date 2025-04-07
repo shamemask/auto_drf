@@ -111,6 +111,9 @@
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-29" value="Уведомление проверках отправлено" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1310" y="570" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-31" value="Конец" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="30" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
