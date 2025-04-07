@@ -11,28 +11,28 @@
           <mxGeometry x="90" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-3" value="Запрос отправлен" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="250" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-4" value="Запрос записан" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-5" value="PDF загружен" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="550" y="280" width="100" height="60" as="geometry" />
+          <mxGeometry x="640" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-6" value="Проверка в процессе" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="700" y="280" width="140" height="60" as="geometry" />
+          <mxGeometry x="830" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-7" value="PDF подтвержден" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="700" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-8" value="PDF неверный" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="700" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="720" y="110" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-9" value="Уведомление отправлено" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-10" value="Подписка выдана" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-11" value="Запрос истек" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="430" y="70" width="120" height="60" as="geometry" />
