@@ -11,13 +11,13 @@
           <mxGeometry x="110" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-3" value="Запрос отправлен" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="270" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-4" value="Запрос записан" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-5" value="PDF загружен" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="700" y="310" width="100" height="60" as="geometry" />
+          <mxGeometry x="680" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-6" value="Проверка в процессе" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="950" y="140" width="140" height="60" as="geometry" />
@@ -26,29 +26,25 @@
           <mxGeometry x="960" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-8" value="PDF неверный" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="660" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="520" y="90" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-9" value="Уведомление отправлено" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-9" value="Уведомление о загрузках отправлено" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="660" y="480" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-10" value="Подписка выдана" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="390" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-11" value="Запрос истек" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1090" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-12" value="" style="shape=ellipse;fillColor=none;strokeColor=black;double=1" vertex="1" parent="1">
-          <mxGeometry x="30" y="540" width="20" height="20" as="geometry" />
+          <mxGeometry x="1380" y="310" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-13" value="Пользователь нажимает &#39;Запросить PDF&#39;" style="edgeStyle=elbowEdgeStyle;rounded=1" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-2" target="gnXlxyJ7z8m9KeDBMfRp-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-14" value="SciArticle Search записывает" style="edgeStyle=elbowEdgeStyle;rounded=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-3" target="gnXlxyJ7z8m9KeDBMfRp-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="160" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-15" value="Пользователь загружает PDF" style="edgeStyle=elbowEdgeStyle;rounded=1;exitX=1;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-4" target="gnXlxyJ7z8m9KeDBMfRp-5">
           <mxGeometry relative="1" as="geometry" />
@@ -70,12 +66,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="220" as="sourcePoint" />
             <mxPoint x="500" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="150" />
-            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-20" value="Уведомить запросившего" style="edgeStyle=elbowEdgeStyle;rounded=1" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-7" target="gnXlxyJ7z8m9KeDBMfRp-9">
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-20" value="Уведомить запросившего" style="edgeStyle=elbowEdgeStyle;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-7" target="gnXlxyJ7z8m9KeDBMfRp-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-21" value="Уведомить загрузившего" style="edgeStyle=elbowEdgeStyle;rounded=1" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-5" target="gnXlxyJ7z8m9KeDBMfRp-9">
@@ -84,7 +77,7 @@
             <mxPoint x="600" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-22" value="Z загрузок или H проверок" style="edgeStyle=elbowEdgeStyle;rounded=1" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-9" target="gnXlxyJ7z8m9KeDBMfRp-10">
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-22" value=" H проверок" style="edgeStyle=elbowEdgeStyle;rounded=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-29" target="gnXlxyJ7z8m9KeDBMfRp-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gnXlxyJ7z8m9KeDBMfRp-23" value="Прошло 3 дня" style="edgeStyle=elbowEdgeStyle;rounded=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-4" target="gnXlxyJ7z8m9KeDBMfRp-11">
@@ -111,6 +104,18 @@
             <mxPoint x="400" y="220" as="sourcePoint" />
             <mxPoint x="340" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-28" value="Z загрузок" style="edgeStyle=elbowEdgeStyle;rounded=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gnXlxyJ7z8m9KeDBMfRp-9" target="gnXlxyJ7z8m9KeDBMfRp-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="520" as="sourcePoint" />
+            <mxPoint x="450" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gnXlxyJ7z8m9KeDBMfRp-29" value="Уведомление проверках отправлено" style="rounded=1;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="630" y="580" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
